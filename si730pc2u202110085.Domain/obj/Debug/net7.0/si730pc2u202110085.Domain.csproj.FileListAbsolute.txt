@@ -1,0 +1,15 @@
+C:\Users\ruizc\Documents\UPC\Ciclo V\3_Applicaciones Web\PC2 REV 0\si730pc2u202110085\si730pc2u202110085.Domain\bin\Debug\net7.0\si730pc2u202110085.Domain.deps.json
+C:\Users\ruizc\Documents\UPC\Ciclo V\3_Applicaciones Web\PC2 REV 0\si730pc2u202110085\si730pc2u202110085.Domain\bin\Debug\net7.0\si730pc2u202110085.Domain.dll
+C:\Users\ruizc\Documents\UPC\Ciclo V\3_Applicaciones Web\PC2 REV 0\si730pc2u202110085\si730pc2u202110085.Domain\bin\Debug\net7.0\si730pc2u202110085.Domain.pdb
+C:\Users\ruizc\Documents\UPC\Ciclo V\3_Applicaciones Web\PC2 REV 0\si730pc2u202110085\si730pc2u202110085.Domain\bin\Debug\net7.0\si730pc2u202110085.Infrastructure.dll
+C:\Users\ruizc\Documents\UPC\Ciclo V\3_Applicaciones Web\PC2 REV 0\si730pc2u202110085\si730pc2u202110085.Domain\bin\Debug\net7.0\si730pc2u202110085.Infrastructure.pdb
+C:\Users\ruizc\Documents\UPC\Ciclo V\3_Applicaciones Web\PC2 REV 0\si730pc2u202110085\si730pc2u202110085.Domain\obj\Debug\net7.0\si730pc2u202110085.Domain.csproj.AssemblyReference.cache
+C:\Users\ruizc\Documents\UPC\Ciclo V\3_Applicaciones Web\PC2 REV 0\si730pc2u202110085\si730pc2u202110085.Domain\obj\Debug\net7.0\si730pc2u202110085.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruizc\Documents\UPC\Ciclo V\3_Applicaciones Web\PC2 REV 0\si730pc2u202110085\si730pc2u202110085.Domain\obj\Debug\net7.0\si730pc2u202110085.Domain.AssemblyInfoInputs.cache
+C:\Users\ruizc\Documents\UPC\Ciclo V\3_Applicaciones Web\PC2 REV 0\si730pc2u202110085\si730pc2u202110085.Domain\obj\Debug\net7.0\si730pc2u202110085.Domain.AssemblyInfo.cs
+C:\Users\ruizc\Documents\UPC\Ciclo V\3_Applicaciones Web\PC2 REV 0\si730pc2u202110085\si730pc2u202110085.Domain\obj\Debug\net7.0\si730pc2u202110085.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ruizc\Documents\UPC\Ciclo V\3_Applicaciones Web\PC2 REV 0\si730pc2u202110085\si730pc2u202110085.Domain\obj\Debug\net7.0\si730pc2u202110085.Domain.csproj.CopyComplete
+C:\Users\ruizc\Documents\UPC\Ciclo V\3_Applicaciones Web\PC2 REV 0\si730pc2u202110085\si730pc2u202110085.Domain\obj\Debug\net7.0\si730pc2u202110085.Domain.dll
+C:\Users\ruizc\Documents\UPC\Ciclo V\3_Applicaciones Web\PC2 REV 0\si730pc2u202110085\si730pc2u202110085.Domain\obj\Debug\net7.0\refint\si730pc2u202110085.Domain.dll
+C:\Users\ruizc\Documents\UPC\Ciclo V\3_Applicaciones Web\PC2 REV 0\si730pc2u202110085\si730pc2u202110085.Domain\obj\Debug\net7.0\si730pc2u202110085.Domain.pdb
+C:\Users\ruizc\Documents\UPC\Ciclo V\3_Applicaciones Web\PC2 REV 0\si730pc2u202110085\si730pc2u202110085.Domain\obj\Debug\net7.0\ref\si730pc2u202110085.Domain.dll
